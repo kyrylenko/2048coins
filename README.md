@@ -1,8 +1,8 @@
-## It is the good old 2048-game implemented using the react-native.
+## It is the good old 2048-game implemented with react-native.
 
 The gameplay hasn't changed much but all the tiles were presented  in the form of logos of the most popular cryptocurrencies. In addition, all the crypto-currencies are sorted according to their market capitalization. So in the end, by manipulating the tiles, you need to collect the most expensive coin - Bitcoin.
 
-## Features:
+### Features:
 - Single-player sliding block puzzle game
 - New stunning design of the old game
 - Tiles distribution, according to the capitalization of the cryptocurrency
